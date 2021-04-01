@@ -1,0 +1,25 @@
+{
+  "name": "Driver",
+  "version": "1.0.0",
+  "description": "401-Lab-12",
+  "main": "driver.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennerdulce/Driver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennerdulce/Driver/issues"
+  },
+  "homepage": "https://github.com/jennerdulce/Driver#readme",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "socket.io": "^2.4.1",
+    "socket.io-client": "^2.4.0"
+  }
+}
